@@ -6,7 +6,7 @@ Berikut adalah roadmap yang bisa kamu ikuti untuk belajar bahasa Inggris dari le
 Tujuan: Mengenal dasar-dasar bahasa Inggris seperti alfabet, pengucapan, dan kosakata dasar.
 
 - **Belajar Alfabet dan Pengucapan**:
-  - Pahami pengucapan alfabet bahasa Inggris.
+  - [Pahami pengucapan alfabet bahasa Inggris.](https://github.com/Fern-Aerell/English-Learning-Roadmap/blob/main/Pemula%20(Beginner)/Pahami%20pengucapan%20alfabet%20bahasa%20Inggris.md)
   - Pelajari cara mengucapkan bunyi vokal dan konsonan yang berbeda (misalnya, perbedaan antara "th" di "think" dan "this").
   - Sumber: [IPA (International Phonetic Alphabet)](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
 
